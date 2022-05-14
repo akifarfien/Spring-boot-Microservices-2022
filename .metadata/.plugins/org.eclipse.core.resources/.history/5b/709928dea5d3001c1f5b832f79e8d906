@@ -1,0 +1,10 @@
+Insert into CurrencyExchange (id,from_currency,to_currency,conversionMultiple,environment)
+values(10001,'USD','INR', 78,'');
+Insert into CurrencyExchange (id,from_currency,to_currency,conversionMultiple,environment)
+values(10001,'USD','INR', 1345,'');
+Insert into CurrencyExchange (id,from_currency,to_currency,conversionMultiple,environment)
+values(10001,'USD','INR', 112,'');
+Insert into CurrencyExchange (id,from_currency,to_currency,conversionMultiple,environment)
+values(10001,'USD','INR', 3345,'');
+Insert into CurrencyExchange (id,from_currency,to_currency,conversionMultiple,environment)
+values(10001,'USD','INR', 6653,'');

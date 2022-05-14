@@ -1,0 +1,16 @@
+package com.selflearning.upscale.CurrencyConversion.proxy;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+
+import com.selflearning.upscale.CurrencyConversion.bean.CurrencyConversion;
+
+
+
+public interface CurrencyExchangeProxy {
+	
+	@GetMapping("/currency-exchange/from/{from}/to/{to}")
+	public CurrencyConversion name(@PathVariable String from, 
+								@PathVariable String to);
+
+}

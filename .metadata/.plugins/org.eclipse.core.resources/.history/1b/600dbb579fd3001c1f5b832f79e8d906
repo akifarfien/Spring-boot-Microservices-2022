@@ -1,0 +1,13 @@
+package com.selflearning.upscale.currencyexchangeservice.bean;
+
+import java.math.BigDecimal;
+
+public class CurrencyExchange {
+	
+	private Long id;
+	private String from;
+	private String to;
+	private BigDecimal conversionMultiple;
+	
+
+}

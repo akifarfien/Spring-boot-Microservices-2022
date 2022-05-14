@@ -1,0 +1,5 @@
+package com.selflearning.upscale.apigateway.Loggger;
+
+public class ApiGatewayLoggerFilter {
+
+}

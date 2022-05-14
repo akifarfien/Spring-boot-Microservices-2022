@@ -1,0 +1,4 @@
+server.port = 8000
+spring.application.name=currency-exchange-service
+
+spring.config.import=configserver:http://localhost:8888

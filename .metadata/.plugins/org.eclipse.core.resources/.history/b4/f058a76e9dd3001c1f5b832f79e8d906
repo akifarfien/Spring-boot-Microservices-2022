@@ -1,0 +1,19 @@
+package com.selflearning.upscale.currencyexchangeservice.controller;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.web.bind.annotation.RestController;
+
+
+
+
+
+@RestController
+public class ServiceController {
+	
+	@Value("${myname}")
+	String myname;
+	
+	public String name() {
+		return myname;
+	}
+}

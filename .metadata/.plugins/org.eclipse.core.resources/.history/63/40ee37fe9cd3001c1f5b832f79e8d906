@@ -1,0 +1,5 @@
+package com.selflearning.upscale.currencyexchangeservice.controller;
+
+public class ServiceController {
+
+}

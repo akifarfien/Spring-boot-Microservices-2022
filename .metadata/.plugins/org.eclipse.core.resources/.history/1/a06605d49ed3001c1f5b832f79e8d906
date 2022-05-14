@@ -1,0 +1,5 @@
+package com.selflearning.upscale.currencyexchangeservice.bean;
+
+public class CurrencyExchange {
+
+}

@@ -1,0 +1,2 @@
+Insert into CurrencyExchange (id,from_currency,to_currency,conversionMultiple,environment)
+values(10001,'USD','INR', 78,'');

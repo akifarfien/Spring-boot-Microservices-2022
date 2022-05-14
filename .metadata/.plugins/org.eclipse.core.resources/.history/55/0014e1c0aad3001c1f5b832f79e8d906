@@ -1,0 +1,5 @@
+package com.selflearning.upscale.CurrencyConversion.bean;
+
+public class CurrencyConversion {
+
+}
